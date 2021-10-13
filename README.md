@@ -1,3 +1,3 @@
 # omelete
-##editing the file
+## editing the file
 this is a markdown file
